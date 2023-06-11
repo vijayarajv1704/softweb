@@ -1,4 +1,4 @@
-# Web Design for a Software Product Company
+# EX07 Web Design for a Software Product Company
 
 ## AIM:
 
